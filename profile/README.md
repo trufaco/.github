@@ -1,4 +1,6 @@
 ![Kazza-Cover](https://user-images.githubusercontent.com/7132783/199223419-d1bd3484-a304-4cba-8013-cf7d61b63e2a.png)
+[![roadmap](https://user-images.githubusercontent.com/7132783/199229748-e52d7b26-70d3-434e-bdae-5b31c8c17f5d.png)](https://github.com/orgs/trufaco/projects/2) [![changelog](https://user-images.githubusercontent.com/7132783/199230556-e4c46f23-f146-4780-b40f-6dde456f3171.png)](https://github.com/trufaco/kazza-roadmap/discussions/categories/announcements)
+
 
 ## 👋 Hi there
 
