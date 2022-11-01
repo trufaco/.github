@@ -1,10 +1,10 @@
 ![Kazza-Cover](https://user-images.githubusercontent.com/7132783/199223419-d1bd3484-a304-4cba-8013-cf7d61b63e2a.png)
 
-## Hi there 👋
+## 👋 Hi there
 
-Welcome to Trufaco! The home of `Kazza` our in-house software built to help you easily manage big 
+Welcome to Trufaco! The home of `Kazza` our in-house software built to help you easily manage your media buys. 
 
-## What is Kazza??
+## ℹ️ What is Kazza??
 
 Kazza is a cloud-based ad media manager to give you FULL control to:
 
@@ -18,7 +18,14 @@ Kazza is a cloud-based ad media manager to give you FULL control to:
 
 - [Getting Started](https://www.kazza.com/)
 - [Our Wiki](https://github.com/trufaco/kazza-roadmap/wiki)
-- [Contact us](mailto:go@kazza.com]
+- [Contact us](mailto:go@kazza.com)
+
+## 🐞 Found a bug? [Report a Bug](https://github.com/trufaco/kazza-roadmap/issues/new/choose)
+
+We appreciate any feedback, good or bad, our team is seeking excellence but we're humans and not perfect, if you found a bug, you can easily report it!
+
+## 🚀 Feature Request? [Share your idea](https://github.com/trufaco/kazza-roadmap/issues/new/choose)
+We love your suggestions & ideas for new features and improvements! If you have an example or a use case, that will help us make this new feature for you that much faster!
 
 <!--
 
